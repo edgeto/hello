@@ -1,11 +1,14 @@
 {
-    "name": "www-data/demo",
+    "name": "edgeto/hello",
+    "description": "edgeto hello desc",
+    "license": "MIT",
     "authors": [
         {
             "name": "edgeto",
             "email": "edgeto@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
