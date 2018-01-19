@@ -1,0 +1,15 @@
+{
+    "name": "www-data/demo",
+    "authors": [
+        {
+            "name": "edgeto",
+            "email": "edgeto@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
